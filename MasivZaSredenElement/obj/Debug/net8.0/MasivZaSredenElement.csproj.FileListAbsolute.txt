@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\bin\Debug\net8.0\MasivZaSredenElement.exe
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\bin\Debug\net8.0\MasivZaSredenElement.deps.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\bin\Debug\net8.0\MasivZaSredenElement.runtimeconfig.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\bin\Debug\net8.0\MasivZaSredenElement.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\bin\Debug\net8.0\MasivZaSredenElement.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.sourcelink.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\refint\MasivZaSredenElement.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\MasivZaSredenElement.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\MasivZaSredenElement\obj\Debug\net8.0\ref\MasivZaSredenElement.dll

@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\bin\Debug\net8.0\UprajnenieSMasivi.exe
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\bin\Debug\net8.0\UprajnenieSMasivi.deps.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\bin\Debug\net8.0\UprajnenieSMasivi.runtimeconfig.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\bin\Debug\net8.0\UprajnenieSMasivi.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\bin\Debug\net8.0\UprajnenieSMasivi.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.sourcelink.json
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\refint\UprajnenieSMasivi.dll
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.pdb
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\UprajnenieSMasivi.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-10\Desktop\Cvetina9a\UprajnenieSMasivi\UprajnenieSMasivi\obj\Debug\net8.0\ref\UprajnenieSMasivi.dll
